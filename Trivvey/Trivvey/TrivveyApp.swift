@@ -2,7 +2,7 @@
 //  TrivveyApp.swift
 //  Trivvey
 //
-//  Created by Alexandra Marum on 10/21/24.
+//  Created by Alec Lobanov on 10/22/24.
 //
 
 import SwiftUI
